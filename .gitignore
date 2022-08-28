@@ -1,4 +1,7 @@
 # Logs
+.env
+.zshrc
+
 logs
 *.log
 npm-debug.log*
